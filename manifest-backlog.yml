@@ -4,7 +4,7 @@ applications:
   host: backlog-pal-yc
   memory: 1G
   instances: 1
-  
+
   services:
   - tracker-backlog-database
   - tracker-service-registry
